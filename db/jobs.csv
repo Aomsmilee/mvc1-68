@@ -1,0 +1,11 @@
+jobId,title,description,companyId,deadline,status,jobType
+20000001,Software Intern,Internship coding,30000001,2025-12-31,open,internship
+20000002,Web Developer,Frontend/Backend dev,30000001,2025-11-30,open,normal
+20000003,Data Analyst,Analyze data,30000002,2025-10-31,closed,normal
+20000004,Marketing Intern,Social media,30000002,2025-12-15,open,internship
+20000005,HR Specialist,Recruiting,30000001,2025-12-01,open,normal
+20000006,QA Tester,Software QA,30000002,2025-12-10,open,normal
+20000007,Product Manager,Manage products,30000001,2025-11-25,closed,normal
+20000008,UI/UX Designer,Design UI,30000002,2025-12-20,open,normal
+20000009,System Admin,Server maintenance,30000001,2025-12-05,open,normal
+20000010,Finance Intern,Accounting,30000002,2025-12-31,open,internship
